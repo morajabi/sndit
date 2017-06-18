@@ -1,0 +1,8 @@
+{
+  "name": "sndit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/morajabi/sndit.git",
+  "author": "Mohammad Rajabifard <mo.rajbi@gmail.com>",
+  "license": "MIT"
+}
