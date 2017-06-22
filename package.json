@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/morajabi/sndit.git",
   "author": "Mohammad Rajabifard <mo.rajbi@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^3.0.0"
+  }
 }
